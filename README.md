@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there I'm Ten Jing Yi👋
+🚀 Software Engineering Student
 
-# PERSONAL INFORMATION
+## 💻PERSONAL INFORMATION
 - NAME: TEN JING YI
 - BIRTHDAY: 7 AUGUST 2006
 - BIRTH PLACE: KLUANG, JOHOR
@@ -9,6 +10,18 @@
 - MATRICULATION: KOLEJ MATRIKULASI JOHOR
 - UNIVERSITY: UNIVERSITY MALAYA 
 
+## PROGRAMMING LANGUAGE
+- JAVA
+- PYTHON
+- HTML
+- CSS
+- JAVASCRIPT
+- FLUTTER
+
+## 📫 How to reach me
+- **LinkedIn:** [Link to LinkedIn](https://www.linkedin.com/in/jing-yi-ten-0b76a83a8/)
+- **Discord:** tenjingyi06
+- **Gmail:** junjiaten@gmail.com
 <!--
 **TenJingYi/tenjingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
